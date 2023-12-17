@@ -1,1 +1,2 @@
-# bomb-lab
+# Bomb Lab
+README WIP
